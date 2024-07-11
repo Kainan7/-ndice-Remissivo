@@ -1,0 +1,18 @@
+exclusão: 
+árvore: 
+folha: 9
+raiz: 9
+balanceamento: 9 18 22 23
+busca: 3 5 13 14 14 25
+algoritmo: 2 12
+desempenho: 6 12 19
+tabela: 3 12 15 21
+complexidade: 2 5 6
+java: 1 19
+estrutura: 
+eficiência: 
+binária: 
+nó: 
+função: 
+inserção: 
+hash: 3 3 11 12 15 15 21

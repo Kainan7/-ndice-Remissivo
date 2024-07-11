@@ -1,0 +1,4 @@
+perdido: 37
+olhos: 6 7 8 20
+furacao: 1
+passou: 2
